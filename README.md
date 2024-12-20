@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @tigersfull
+- 👋 Hi, I’m @ChristosKoffas
 - 👀 I’m interested in telecoms programming
 - 🌱 I’m currently learning c++, java, assembly and vhdl
 - 💞️ I’m looking to collaborate on ...
